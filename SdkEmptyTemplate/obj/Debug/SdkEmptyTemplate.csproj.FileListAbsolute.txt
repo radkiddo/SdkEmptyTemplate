@@ -1,0 +1,4 @@
+C:\Eduardo\SdkEmptyTemplate\SdkEmptyTemplate\bin\Debug\eFlow.SDK.NM.dll
+C:\Eduardo\SdkEmptyTemplate\SdkEmptyTemplate\bin\Debug\eFlow.SDK.NM.pdb
+C:\Eduardo\SdkEmptyTemplate\SdkEmptyTemplate\obj\Debug\eFlow.SDK.NM.dll
+C:\Eduardo\SdkEmptyTemplate\SdkEmptyTemplate\obj\Debug\eFlow.SDK.NM.pdb
